@@ -1,0 +1,41 @@
+input[type=submit] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+input[type=button] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+input[type=text2] {
+  padding: 3px 10px;
+  margin: 10px;
+}
+
+.table2 td, .table2 th {
+  min-width: 140px;
+}
+
+.card2 {
+  height: 100%;
+}
+
+#alertContainer {
+  height: 50px;
+}
+
+#count {
+  text-align: center;
+  margin: 15px;
+}

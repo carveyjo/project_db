@@ -1,0 +1,68 @@
+input[type=submit] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+input[type=button] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+input[type=text] {
+  padding: 5px 15px;
+  margin: 15px;
+}
+
+select[name="Detroit"] {
+  padding: 5px 15px;
+  margin: 15px;
+}
+
+select[name="TraverseCity"] {
+  padding: 5px 15px;
+  margin: 15px;
+}
+
+.PartTable td, .PartTable th {
+  min-width: 200px;
+}
+
+.card {
+  height: 100%;
+}
+
+#alertContainer {
+  height: 50px;
+}
+
+#counterCol {
+  padding-left: 30px;
+}
+
+#counterCol>span {
+  font-weight: 500;
+}
+
+#counterDiv {
+  padding-left: 30%;
+  font-size: 24px;
+}
+
+.label {
+  width: 100%;
+  font-weight: 500;
+}
+
+#getPaste {
+  margin-top: 13px;
+}

@@ -1,0 +1,36 @@
+input[type=submit] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+input[type=button] {
+  padding: 5px 15px;
+  background: #ccc;
+  border: 0 none;
+  cursor: pointer;
+  -webkit-border-radius: 3px;
+  border-radius: 5px;
+  margin: 15px;
+}
+
+input[type=text] {
+  padding: 5px 15px;
+  margin: 15px;
+}
+
+.table td, .table th {
+  min-width: 200px;
+}
+
+.card {
+  height: 100%;
+}
+
+#alertContainer {
+  height: 50px;
+}
